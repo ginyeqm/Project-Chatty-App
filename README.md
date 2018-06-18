@@ -2,7 +2,7 @@ React Boilerplate
 =====================
 
 ### Final Product
-!["Screenshot of tweet-box"](https://github.com/ginyeqm/Tweets-Project/blob/master/docs/product.png)
+!["Screenshot of chatty_App"](https://github.com/ginyeqm/Project-Chatty-App/blob/master/docs/product.png)
 
 ### start up
 Install the dependencies and start the server.
