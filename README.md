@@ -2,7 +2,13 @@ React Boilerplate
 =====================
 
 ### Final Product
-!["Screenshot of chatty_App"](https://github.com/ginyeqm/Project-Chatty-App/blob/master/docs/product.png)
+!["Screenshot of chatty_App"](https://github.com/ginyeqm/Project-Chatty-App/blob/master/DOC/product.png)
+
+
+### Project Description
+
+this app, Chatty will allow users to communicate with each other without having to register accounts. It will use React, a popular front-end library created and used heavily by Facebook as well as modern tools for Node including Webpack and Babel.
+
 
 ### start up
 Install the dependencies and start the server.
@@ -33,7 +39,3 @@ npm run lint
 * Webpack
 * [babel-loader](https://github.com/babel/babel-loader)
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
-
-### Project Description
-
-this app, Chatty will allow users to communicate with each other without having to register accounts. It will use React, a popular front-end library created and used heavily by Facebook as well as modern tools for Node including Webpack and Babel.
